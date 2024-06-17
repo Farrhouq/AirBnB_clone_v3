@@ -1,0 +1,1 @@
+This is for web dynamic for the airbnb clone project.
